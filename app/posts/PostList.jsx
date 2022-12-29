@@ -10,7 +10,7 @@ const fetchPosts = () => {
   }).then((res) => res.json())
 }
 
-export default async function PostList() {
+export default async function PostList () {
   // Since this this is a Server Component the we cannot use the fetching in the same way as we do with Client Component
   //
   // const [posts, setPosts] = useState([])

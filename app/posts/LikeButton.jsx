@@ -4,7 +4,7 @@
 // this means that the hydration of that static html will occour in the client: adding css, adding behaviors with JS and so on
 import { useState } from 'react'
 
-export function LikeButton(params) {
+export function LikeButton (params) {
   const [liked, setLiked] = useState(false)
 
   return (

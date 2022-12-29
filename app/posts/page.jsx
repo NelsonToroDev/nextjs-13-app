@@ -1,6 +1,6 @@
 import PostList from './PostList'
 
-export default async function PostsPage() {
+export default async function PostsPage () {
   // Rendered into Server side
   return (
     <section>
