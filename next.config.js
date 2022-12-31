@@ -4,7 +4,10 @@ const nextConfig = {
   experimental: {
     appDir: true
   },
-  reactStrictMode: true
+  reactStrictMode: true,
+  images: {
+    domains: ['https://avatars.dicebear.com']
+  }
 }
 
 module.exports = nextConfig
