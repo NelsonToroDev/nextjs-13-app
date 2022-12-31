@@ -1,4 +1,26 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This project was created for practice [Next.js 13](https://nextjs.org/) 
+basically this project shows a list of posts, a single post and comments
+some topics that has been practiced are:
+* App pages
+* Layouts
+* Shared Layouts
+* Server components
+* Client components
+* Data Fetching from https://jsonplaceholder.typicode.com/
+* Error page
+* Loadings page
+* New native support for custom Fonts
+* New native support for custom Images
+
+## Screenshots
+### List of Posts
+![](./screenshots/posts.png)
+
+### Single Post
+![](./screenshots/singlePost.png)
+
+### Post with comments
+![](./screenshots/singlePostWithComments.png)
 
 ## Getting Started
 
